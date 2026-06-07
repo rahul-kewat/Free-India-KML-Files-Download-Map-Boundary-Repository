@@ -5,6 +5,86 @@ Welcome to a clean, easy-to-use repository featuring a complete **India KML file
 
 When you import this single file into Google Earth, QGIS, or your own application, it automatically splits into individual layers for every Indian State and Union Territory.
 
+**The 28 States
+**
+Andhra Pradesh [Amaravati]
+
+Arunachal Pradesh [Itanagar]
+
+Assam [Dispur]
+
+Bihar [Patna]
+
+Chhattisgarh [Raipur]
+
+Goa [Panaji]
+
+Gujarat [Gandhinagar]
+
+Haryana [Chandigarh]
+
+Himachal Pradesh [Shimla]
+
+Jharkhand [Ranchi]
+
+Karnataka [Bengaluru]
+
+Kerala [Thiruvananthapuram]
+
+Madhya Pradesh [Bhopal]
+
+Maharashtra [Mumbai]
+
+Manipur [Imphal]
+
+Meghalaya [Shillong]
+
+Mizoram [Aizawl]
+
+Nagaland [Kohima]
+
+Odisha [Bhubaneswar]
+
+Punjab [Chandigarh]
+
+Rajasthan [Jaipur]
+
+Sikkim [Gangtok]
+
+Tamil Nadu [Chennai]
+
+Telangana [Hyderabad]
+
+Tripura [Agartala]
+
+Uttarakhand [Gairsain (Summer), Dehradun (Winter)]
+
+Uttar Pradesh [Lucknow]
+
+West Bengal [Kolkata]
+
+
+**The 8 Union Territories
+**
+Andaman and Nicobar Islands [Port Blair]
+
+Chandigarh [Chandigarh]
+
+Dadra and Nagar Haveli and Daman and Diu [Daman]
+
+Delhi (National Capital Territory) [New Delhi]
+
+Jammu and Kashmir [Srinagar (Summer), Jammu (Winter)]
+
+Ladakh [Leh (Summer), Kargil (Winter)]
+
+Lakshadweep [Kavaratti]
+
+Puducherry [Puducherry]
+
+You can explore detailed facts, capitals, and demographic details for each of these regions on the India State/ UT & Districts informational portal
+
+(Written using AI)
 ---
 
 ## 📌 Features
