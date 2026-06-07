@@ -5,8 +5,8 @@ Welcome to a clean, easy-to-use repository featuring a complete **India KML file
 
 When you import this single file into Google Earth, QGIS, or your own application, it automatically splits into individual layers for every Indian State and Union Territory.
 
-**The 28 States
-**
+The 28 States
+
 Andhra Pradesh [Amaravati]
 
 Arunachal Pradesh [Itanagar]
@@ -64,8 +64,8 @@ Uttar Pradesh [Lucknow]
 West Bengal [Kolkata]
 
 
-**The 8 Union Territories
-**
+The 8 Union Territories
+
 Andaman and Nicobar Islands [Port Blair]
 
 Chandigarh [Chandigarh]
